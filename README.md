@@ -8,6 +8,6 @@ Get started with Luna Executor in just a few simple steps:
 ## About Luna Executor  
 🚀 **Luna Executor** is a high-performance Roblox script executor designed for smooth script execution, enhanced gameplay, and seamless usability. Built with security in mind, it remains fully compatible with the latest Roblox updates, offering a stable and efficient experience for gamers, developers, and modding enthusiasts.
 
-![Luna Executor Preview](/assets/Luna.gif)
+![Luna Executor Preview](/assets/Luna.jpg)
 
 **Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2025.
