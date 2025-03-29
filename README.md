@@ -1,13 +1,23 @@
-# 🚀 Luna Executor – Powering Advanced Automation & Scripting!
+# Repository Pengumpulan Tugas Praktikum Lab PP
 
-## Quick Installation
-Get started with Luna Executor in just a few simple steps:
-1. **[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blueviolet)](../../releases)**
-2. Extract the downloaded ZIP file to a preferred location on your system.
+## Alur Pengumpulan Tugas ke Repositori Ini
+0. **Fork** Repositori ini.
+1. Pada hasil *fork* anda, Buat **Branch** dengan nama **NIM** anda.
+2. Pada *branch* **NIM** anda, buat direktori didalam direktori **NIM** anda dengan nama **Praktikum-n**.
+ 
+3. Seluruh berkas **Tugas** pertemuan ke-_**n**_ disimpan pada direktori _**NIM/Praktikum-n**_.
+   > - Berkas tugas berupa  `.java` dimana *satu class satu file*.
+4. **Push** berkas tugas anda ke repositori hasil *fork* pada *branch* **NIM** anda.
+5. Buat **Pull Request** untuk **Merge** *branch* **NIM** dengan *branch* **nim** pada repositori ini.
+6. Tugas anda dinyatakan **diterima** jika **branch NIM** anda telah _**merged**_ dengan **branch nim** anda pada repositori ini.  
 
-## About Luna Executor  
-🚀 **Luna Executor** is a high-performance Roblox script executor designed for smooth script execution, enhanced gameplay, and seamless usability. Built with security in mind, it remains fully compatible with the latest Roblox updates, offering a stable and efficient experience for gamers, developers, and modding enthusiasts.
+## Bagaimana Cara Mengetahui Jika **Branch NIM** telah _**Merged**_ dengan Repositori ini ?
+ - Anda dapat memantau repositori ini.
+ - Atau tambahkan **remote** ke repositori ini sebagai **upstream** pada repositori lokal hasil *fork* anda.
+ - Jika anda menambahkan *remote* pada hasil *fork*, lakukan **merge** pada _branch **master**_ anda dengan _branch **master upstream**_.
+ - Untuk cara sinkronisasi hasil *fork* dengan *upstream*, silahkan baca [Configure a remote for a fork](https://help.github.com/en/articles/configuring-a-remote-for-a-fork) dan [Syncing a fork](https://help.github.com/en/articles/syncing-a-fork).
 
-![Luna Executor Preview](/assets/Luna.jpg)
 
-**Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2025.
+```diff
+! ### Bila Bingung dengan Cara di atas, Bisa Mengikuti Langkah pada File PDF Terlampir!
+```
